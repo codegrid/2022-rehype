@@ -1,0 +1,26 @@
+{
+  "name": "2022-rehype",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "example1": "node ./01-tweak-html",
+    "example2": "node ./02-toc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rehype-add-classes": "^1.0.0",
+    "rehype-format": "^4.0.1",
+    "rehype-parse": "^8.0.3",
+    "rehype-slug": "^5.0.0",
+    "rehype-stringify": "^9.0.2",
+    "rehype-wrap-all": "^1.1.0",
+    "unified": "^10.1.1",
+    "unist-builder": "^3.0.0",
+    "unist-util-filter": "^4.0.0",
+    "unist-util-find": "^1.0.2",
+    "unist-util-flat-filter": "^2.0.0"
+  }
+}

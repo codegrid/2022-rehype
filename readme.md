@@ -8,13 +8,13 @@ npm ci
 
 ## How to run the example
 
-WYSIWYGのHTMLを加工する例
+WYSIWYGっぽいHTMLを加工する例
 
 ```bash
 npm run example1
 ```
 
-見出しからページ内アンカーを作る例
+h2だけを拾って目次のページ内アンカーを作る例
 
 ```bash
 npm run example2

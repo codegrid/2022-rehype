@@ -58,6 +58,9 @@ const tocGenerator = () => {
     });
 
     // デバッグ用4: 処理後のtree
+    //console.dir(tocNode.children, { depth: null });
+
+    // デバッグ用5: 処理後のtree
     //console.dir(tree, { depth: null });
   };
 };
